@@ -1,0 +1,11 @@
+networkx
+pandas
+scikit-learn
+openai
+PyYAML
+sentence-transformers
+rouge-score
+pytest
+jupyter
+matplotlib
+tqdm
