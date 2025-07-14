@@ -1,4 +1,8 @@
-# BioMuse: Benchmarking LLMs for Trustworthy Multimedia Retrieval in Computational Biology
+![python](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Conference](https://img.shields.io/badge/IEEE%20MIPR-2025-blueviolet)
+![Model Support](https://img.shields.io/badge/Models-GPT4%2C%20Claude%2C%20LLaMA%2C%20BioMuse--RAG-orange)
+![code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)# BioMuse: Benchmarking LLMs for Trustworthy Multimedia Retrieval in Computational Biology
 
 ### Accepted to IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR) 2025
 
