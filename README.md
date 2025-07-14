@@ -199,6 +199,8 @@ evaluation:
   tag_metrics: ["macro_f1", "micro_f1", "jaccard_similarity"]
 ```
 
+<img width="959" height="629" alt="Screenshot 2025-07-13 at 22 00 30" src="https://github.com/user-attachments/assets/199b96f7-84d4-4551-8309-aafc15d702e5" />
+
 ## Extending BioMuse
 
 ### Adding New Models
