@@ -29,6 +29,9 @@ The BioMuse pipeline comprises four primary components:
 4. **Evaluation Engine**: Scores model outputs using accuracy, ranking metrics, and semantic similarity measures
 
 <img width="3840" height="1010" alt="Untitled diagram _ Mermaid Chart-2025-07-14-044953" src="https://github.com/user-attachments/assets/37ffb39b-69c2-4f03-aa1c-8bb544c3ed21" />
+<img width="3840" height="1010" alt="Untitled diagram _ Mermaid Chart-2025-07-14-044953" src="https://github.com/user-attachments/assets/823db80a-88f4-4ffe-98a1-8ec0bfc72224" />
+<img width="3840" height="1010" alt="Untitled diagram _ Mermaid Chart-2025-07-14-053051" src="https://github.com/user-attachments/assets/455a8e27-54ff-4058-aa56-adf407cd2c4c" />
+<img width="3840" height="849" alt="Untitled diagram _ Mermaid Chart-2025-07-14-053659" src="https://github.com/user-attachments/assets/2c6ce27a-88a4-460b-b3a9-c05d46d86db0" />
 
 ## Installation
 
