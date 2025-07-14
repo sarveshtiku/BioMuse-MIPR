@@ -1,4 +1,4 @@
-# BioMuse: Benchmarking LLMs for Trustworthy Multimedia Retrieval in Computational Biology
+ # BioMuse: Benchmarking LLMs for Trustworthy Multimedia Retrieval in Computational Biology
 
 BioMuse is a novel benchmarking framework specifically designed to assess the structured retrieval and reasoning capabilities of Large Language Models (LLMs) using metadata from researcher-curated Zotero libraries. The framework converts Zotero metadata—including collections, tags, and notes—into semantic graphs and structured document clusters, providing context-rich, intent-aligned benchmarks.
 
@@ -19,6 +19,8 @@ The BioMuse pipeline comprises four primary components:
 2. **Task Generator**: Automatically creates prompt-based tasks based on graph structure
 3. **LLM Interaction Layer**: Supports inference over multiple model providers (OpenAI, Anthropic, local models)
 4. **Evaluation Engine**: Scores model outputs using accuracy, ranking metrics, and semantic similarity measures
+
+<img width="3840" height="1010" alt="Untitled diagram _ Mermaid Chart-2025-07-14-044953" src="https://github.com/user-attachments/assets/37ffb39b-69c2-4f03-aa1c-8bb544c3ed21" />
 
 ## Installation
 
