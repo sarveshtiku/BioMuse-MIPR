@@ -29,6 +29,11 @@ The BioMuse pipeline comprises four primary components:
 4. **Evaluation Engine**: Scores model outputs using accuracy, ranking metrics, and semantic similarity measures
 
 <img width="3840" height="1010" alt="Untitled diagram _ Mermaid Chart-2025-07-14-053051" src="https://github.com/user-attachments/assets/455a8e27-54ff-4058-aa56-adf407cd2c4c" />
+
+## Zotero Knowledge Graphs
+
+<img width="3840" height="857" alt="Untitled diagram _ Mermaid Chart-2025-07-14-053851" src="https://github.com/user-attachments/assets/9d0716f3-eb52-48e0-ac3e-c8f194bcce23" />
+
 <img width="3840" height="849" alt="Untitled diagram _ Mermaid Chart-2025-07-14-053659" src="https://github.com/user-attachments/assets/2c6ce27a-88a4-460b-b3a9-c05d46d86db0" />
 
 ## Installation
