@@ -234,15 +234,6 @@ To add custom evaluation metrics:
 - **Open-Source Toolkit**: Release Zotero → BioMuse conversion toolkit
 - **Real-time Evaluation**: Live benchmarking during research workflows
 
-
-## Contributing
-
-We welcome contributions! Please see our contributing guidelines for details on:
-- Code style and standards
-- Testing requirements
-- Documentation updates
-- Issue reporting
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
