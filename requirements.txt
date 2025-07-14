@@ -2,6 +2,7 @@ networkx
 pandas
 scikit-learn
 openai
+anthropic
 PyYAML
 sentence-transformers
 rouge-score
@@ -9,3 +10,4 @@ pytest
 jupyter
 matplotlib
 tqdm
+numpy
