@@ -1,6 +1,6 @@
 # BioMuse: Benchmarking LLMs for Trustworthy Multimedia Retrieval in Computational Biology
 
-### Accepted to the IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR) 2025
+### Accepted to IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR) 2025
 
 BioMuse is a novel benchmarking framework specifically designed to assess the structured retrieval and reasoning capabilities of Large Language Models (LLMs) using metadata from researcher-curated Zotero libraries. The framework converts Zotero metadata—including collections, tags, and notes—into semantic graphs and structured document clusters, providing context-rich, intent-aligned benchmarks.
 
