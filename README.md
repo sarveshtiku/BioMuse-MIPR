@@ -234,18 +234,6 @@ To add custom evaluation metrics:
 - **Open-Source Toolkit**: Release Zotero → BioMuse conversion toolkit
 - **Real-time Evaluation**: Live benchmarking during research workflows
 
-## Citation
-
-If you use BioMuse in your research, please cite:
-
-```bibtex
-@article{biomuse2024,
-  title={Benchmarking LLMs for Trustworthy Multimedia Retrieval in Computational Biology using Structured Zotero Graphs},
-  author={Tiku, Sarvesh},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2024}
-}
-```
 
 ## Contributing
 
